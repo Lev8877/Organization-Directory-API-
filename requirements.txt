@@ -1,0 +1,6 @@
+fastapi
+sqlalchemy
+pydantic
+asyncpg
+python-dotenv
+alembic
